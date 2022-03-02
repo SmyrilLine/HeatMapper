@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HeatMapper": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\theos\\Desktop\\NorronaSVG\\dekk8.svg\" \"C:\\Users\\theos\\Desktop\\NorronaSVG\\NorronaWifiSignal.csv\""
+    }
+  }
+}

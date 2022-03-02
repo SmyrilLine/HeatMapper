@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeatMapper", "HeatMapper.csproj", "{C51FFE1C-8328-4E6E-8371-EA8128E66D72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C51FFE1C-8328-4E6E-8371-EA8128E66D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C51FFE1C-8328-4E6E-8371-EA8128E66D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C51FFE1C-8328-4E6E-8371-EA8128E66D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C51FFE1C-8328-4E6E-8371-EA8128E66D72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C01A780-959F-407F-9E5B-EF61EC094CE6}
+	EndGlobalSection
+EndGlobal
